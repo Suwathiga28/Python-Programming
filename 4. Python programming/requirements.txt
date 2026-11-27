@@ -1,0 +1,13 @@
+pandas>=2.3
+numpy
+requests
+python-dotenv
+plotly
+nbformat
+kaleido
+statsmodels
+ipykernel
+jupyter
+
+# used by a few labs that draw charts with matplotlib
+matplotlib

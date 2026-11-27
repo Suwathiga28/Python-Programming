@@ -1,0 +1,11 @@
+name,brand,category,price,stock,rating,invetory_value
+iPhone 13,Apple,Smartphone,799,50,4.8,39950
+Galaxy S21,Samsung,Smartphone,699,30,4.6,20970
+MacBook Air,Apple,Laptop,999,20,4.9,19980
+ThinkPad X1,Lenovo,Laptop,1149,15,4.7,17235
+Surface Pro 7,Microsoft,Laptop,749,0,4.5,0
+iPad Pro,Apple,Tablet,899,25,4.8,22475
+Galaxy Tab S7,Samsung,Tablet,649,18,4.5,11682
+AirPods Pro,Apple,Headphones,249,100,4.7,24900
+Sony WH-1000XM4,Sony,Headphones,349,45,4.9,15705
+Pixel 6,Google,Smartphone,599,35,4.6,20965

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Laptop",
+    "category": "Electronics",
+    "unit_price": 9990
+  },
+  {
+    "name": "Headphones",
+    "category": "Electronics",
+    "unit_price": 799.5
+  },
+  {
+    "name": "Mouse",
+    "category": "Electronics",
+    "unit_price": 299
+  },
+  {
+    "name": "Notebook",
+    "category": "Stationery",
+    "unit_price": 25
+  },
+  {
+    "name": "Pen set",
+    "category": "Stationery",
+    "unit_price": 59
+  },
+  {
+    "name": "Desk lamp",
+    "category": "Home",
+    "unit_price": 349
+  },
+  {
+    "name": "Backpack",
+    "category": "Accessories",
+    "unit_price": 449
+  }
+]

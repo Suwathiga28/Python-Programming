@@ -1,0 +1,79 @@
+address,area,sqm,rooms,price_sek,date,street_name,sek_sqm,yr_sold
+"Bondegatan 3B, 4 tr","Södermalm - Nytorget,",27.0,1.0,2750000,2019-12-18,Bondegatan,101851,2019
+"Bondegatan 74B, 5 tr","Södermalm - Sofo,",105.0,3.0,10050000,2019-12-13,Bondegatan,95714,2019
+Bondegatan 1 E,"Södermalm,",47.0,2.0,4500000,2019-12-12,Bondegatan,95744,2019
+"Bondegatan 4, 4tr","Södermalm - SOFO,",127.0,5.0,14050000,2019-12-06,Bondegatan,110629,2019
+Bondegatan 24,"Katarina,",27.0,1.0,2970000,2019-12-05,Bondegatan,110000,2019
+"Bondegatan 33, 4 tr","Södermalm SoFo,",35.0,1.0,3070000,2019-12-04,Bondegatan,87714,2019
+Bondegatan 8,"Katarina,",57.0,2.0,5000000,2019-11-25,Bondegatan,87719,2019
+Bondegatan 45,"Sofia,",46.0,2.0,3750000,2019-11-20,Bondegatan,81521,2019
+"Bondegatan 18, 3 tr","Katarina,",42.0,1.5,3400000,2019-11-15,Bondegatan,80952,2019
+Bondegatan 55,"Sofia,",21.0,1.0,2525000,2019-11-14,Bondegatan,120238,2019
+Bondegatan 7,"Södermalm Katarina,",69.0,3.0,6225000,2019-11-14,Bondegatan,90217,2019
+"Bondegatan 74B, 5 tr","Södermalm - Sofia,",103.0,3.5,10675000,2019-11-07,Bondegatan,103640,2019
+"Bondegatan 16D ÖG, 1TR","Södermalm SoFo,",39.0,1.0,3700000,2019-10-30,Bondegatan,94871,2019
+"Bondegatan 51, 5tr","Södermalm - Sofia,",44.0,2.0,4160000,2019-10-29,Bondegatan,94545,2019
+Bondegatan 63,"Södermalm,",61.5,3.0,5350000,2019-10-29,Bondegatan,86991,2019
+Bondegatan 1C,"Södermalm,",54.0,2.0,4325000,2019-10-23,Bondegatan,80092,2019
+"Bondegatan 24, 4tr","Nytorget,",25.0,1.0,2755000,2019-10-15,Bondegatan,110200,2019
+"Bondegatan 74A, 5 tr","Södermalm - Sofia,",109.0,3.5,10200000,2019-10-15,Bondegatan,93577,2019
+"Bondegatan 1 D, 2 tr","Södermalm,",29.0,1.0,3040000,2019-10-09,Bondegatan,104827,2019
+"Bondegatan 46, 3 tr",,33.0,1.0,2970000,2019-09-26,Bondegatan,90000,2019
+Bondegatan 50,"Katarina,",43.0,2.0,3900000,2019-09-25,Bondegatan,90697,2019
+Bondegatan 75,"Södermalm,",44.0,2.0,3945000,2019-09-18,Bondegatan,89659,2019
+"Bondegatan 74A, 4 tr","Södermalm - Sofia,",96.0,4.0,8850000,2019-09-13,Bondegatan,92187,2019
+Bondegatan 81,"Södermalm Sofia,",30.0,1.5,2890000,2019-09-10,Bondegatan,96333,2019
+"Bondegatan 46, 4 tr","Södermalm SoFo,",42.0,2.0,3550000,2019-09-08,Bondegatan,84523,2019
+"Bondegatan 7, 2 tr","Södermalm,",65.0,2.0,6000000,2019-09-06,Bondegatan,92307,2019
+"Bondegatan 24, 5tr","Södermalm Katarina,",27.0,1.0,3040000,2019-09-04,Bondegatan,112592,2019
+Bondegatan 45,"Södermalm,",22.0,1.0,2600000,2019-09-01,Bondegatan,118181,2019
+"Bondegatan 24, 2,5 tr","Södermalm - Nytorget,",43.0,1.5,3700000,2019-08-30,Bondegatan,86046,2019
+"Bondegatan 25 B, 1 tr (vån 2)","Södermalm,",92.5,4.0,6700000,2019-08-29,Bondegatan,72432,2019
+Bondegatan 45,"Sofia,",44.0,2.0,3900000,2019-08-22,Bondegatan,88636,2019
+Bondegatan 24,"Katarina,",44.0,1.5,3590000,2019-08-15,Bondegatan,81590,2019
+Bondegatan 3D,"Södermalm,",23.0,1.0,2790000,2019-08-15,Bondegatan,121304,2019
+"Bondegatan 18, 3,5 tr","Södermalm - Nytorget,",29.0,2.0,3250000,2019-08-08,Bondegatan,112068,2019
+"Bondegatan 1d, 3tr","Södermalm,",36.0,1.0,3600000,2019-08-02,Bondegatan,100000,2019
+"Bondegatan 18, 4tr","Katarina/Sofia,",29.0,1.0,3150000,2019-07-31,Bondegatan,108620,2019
+"Bondegatan 3B, 3 tr","Södermalm - Nytorget,",27.0,1.0,2920000,2019-07-18,Bondegatan,108148,2019
+"Bondegatan 63, 5 tr","SoFo,",25.0,1.0,3100000,2019-07-05,Bondegatan,124000,2019
+"Bondegatan 7, 5 tr","Södermalm,",73.0,3.0,7470000,2019-07-04,Bondegatan,102328,2019
+"Bondegatan 80, 1 tr","Södermalm-Sofia,",37.5,1.5,3250000,2019-06-26,Bondegatan,86666,2019
+Bondegatan 63,"Södermalm,",34.0,1.5,3060000,2019-06-18,Bondegatan,90000,2019
+Bondegatan 33,"Södermalm - Nytorget,",35.0,1.0,3500000,2019-06-14,Bondegatan,100000,2019
+Bondegatan 31,"Katarina,",86.0,3.0,6300000,2019-06-06,Bondegatan,73255,2019
+"Bondegatan 80, 3 tr","Sofia,",33.0,1.0,2950000,2019-06-05,Bondegatan,89393,2019
+"Bondegatan 13, 3 tr",,35.0,2.0,3650000,2019-05-28,Bondegatan,104285,2019
+Bondegatan 50,"Södermalm - SOFO,",43.0,2.0,3600000,2019-05-24,Bondegatan,83720,2019
+Bondegatan 24,"Södermalm Katarina,",42.0,1.5,3370000,2019-05-22,Bondegatan,80238,2019
+Bondegatan 3B,"Katarina,",25.0,1.0,2750000,2019-05-16,Bondegatan,110000,2019
+Bondegatan 3D,"SoFo,",23.0,1.0,2420000,2019-05-15,Bondegatan,105217,2019
+"Bondegatan 81, 2  tr","Södermalm Sofia,",47.0,2.0,3800000,2019-05-11,Bondegatan,80851,2019
+"Bondegatan 22, 3 tr","Katarina,",73.0,2.5,5300000,2019-05-08,Bondegatan,72602,2019
+Bondegatan 45,"Södermalm,",22.0,1.0,2500000,2019-05-08,Bondegatan,113636,2019
+"Bondegatan 64, 2tr (ÖG)","Södermalm,",47.0,2.0,4000000,2019-05-03,Bondegatan,85106,2019
+"Bondegatan 18, 1,5 tr","Södermalm - Nytorget,",29.0,1.0,3000000,2019-05-02,Bondegatan,103448,2019
+"Bondegatan 18, 4 tr","Södermalm SoFo,",77.0,4.0,5100000,2019-04-10,Bondegatan,66233,2019
+"Bondegatan 79, 4 tr","Södermalm Sofia,",42.0,1.5,3150000,2019-04-10,Bondegatan,75000,2019
+Bondegatan 22,"Södermalm,",77.0,3.0,4700000,2019-04-03,Bondegatan,61038,2019
+"Bondegatan 74 A, 2 tr","Södermalm - Sofia,",92.0,4.0,9000000,2019-04-03,Bondegatan,97826,2019
+Bondegatan 80,"Sofia,",33.0,2.0,3150000,2019-03-25,Bondegatan,95454,2019
+Bondegatan 75,"Sofia,",42.0,1.0,3250000,2019-03-21,Bondegatan,77380,2019
+Bondegatan 24,"Södermalm Katarina,",27.0,1.0,2730000,2019-03-21,Bondegatan,101111,2019
+Bondegatan 46,"Katarina/Sofia SoFo,",34.0,1.0,3000000,2019-03-15,Bondegatan,88235,2019
+"Bondegatan 7, 1 tr",,35.0,1.0,2900000,2019-03-14,Bondegatan,82857,2019
+Bondegatan 18,"Södermalm,",29.0,1.0,2870000,2019-03-13,Bondegatan,98965,2019
+Bondegatan 51,"Södermalm,",44.0,1.5,3300000,2019-03-08,Bondegatan,75000,2019
+"Bondegatan 13, 2tr","Södermalm,",45.0,2.0,3600000,2019-03-01,Bondegatan,80000,2019
+Bondegatan 22,"Katarina,",29.0,1.0,2685000,2019-02-20,Bondegatan,92586,2019
+"Bondegatan 74 B, 4 tr","Sofia,",79.0,2.0,5850000,2019-02-20,Bondegatan,74050,2019
+Bondegatan 81,"Södermalm Sofia,",85.0,3.0,5850000,2019-02-10,Bondegatan,68823,2019
+Bondegatan 16A,"Södermalm / SoFo,",55.0,2.0,5100000,2019-02-07,Bondegatan,92727,2019
+Bondegatan 74,"Södermalm,",130.0,3.0,11000000,2019-02-07,Bondegatan,84615,2019
+"Bondegatan 18, 2,5 tr","Katarina / Södermalm,",29.0,1.0,2800000,2019-01-25,Bondegatan,96551,2019
+"Bondegatan 64B, 4 tr. ÖG","Södermalm Sofia,",44.0,2.0,3550000,2019-01-24,Bondegatan,80681,2019
+"Bondegatan 16C, 2 tr. ÖG","Södermalm Katarina,",38.0,1.0,3450000,2019-01-23,Bondegatan,90789,2019
+Bondegatan 75,"Sofia,",30.0,1.0,2660000,2019-01-18,Bondegatan,88666,2019
+"Bondegatan 1F, 3tr","Katarina,",81.0,3.0,6300000,2019-01-17,Bondegatan,77777,2019
+Bondegatan 46,"Södermalm-Katarina,",62.0,2.0,4400000,2019-01-17,Bondegatan,70967,2019
+"Bondegatan 63, 3 tr","Södermalm - SOFO,",54.0,2.0,3650000,2019-01-10,Bondegatan,67592,2019

@@ -1,0 +1,10 @@
+{
+  "jupyter.notebookFileRootFolder": "${fileDirname}",
+  "python.terminal.activateEnvironment": true,
+  "notebook.output.textLineLimit": 30,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true
+  },
+  "python.terminal.executeInFileDir": true
+}

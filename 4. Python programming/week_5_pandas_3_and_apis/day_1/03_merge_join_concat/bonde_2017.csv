@@ -1,0 +1,71 @@
+address,area,sqm,rooms,price_sek,date,street_name,sek_sqm,yr_sold
+"Bondegatan 63, 2 tr","Södermalm - Sofia,",72.0,2.0,4995000,2017-12-15,Bondegatan,69375,2017
+"Bondegatan 24, 2 tr","Södermalm Katarina,",43.0,1.5,3500000,2017-12-13,Bondegatan,81395,2017
+Bondegatan 6,"Södermalm,",47.0,2.0,4320000,2017-12-06,Bondegatan,91914,2017
+"Bondegatan 5A, 2,5 tr","Katarina/Sofia,",49.0,2.0,4550000,2017-12-05,Bondegatan,92857,2017
+"Bondegatan 31, 5 tr","Södermalm / Nytorget,",86.0,3.0,5400000,2017-11-30,Bondegatan,62790,2017
+"Bondegatan 3 D, 3tr","Katarina-SoFo,",26.0,1.0,2605000,2017-11-19,Bondegatan,100192,2017
+Bondegatan 25 B,"Nytorget,",81.5,3.0,5150000,2017-11-17,Bondegatan,63190,2017
+Bondegatan 46,"Södermalm,",33.0,1.0,3150000,2017-11-10,Bondegatan,95454,2017
+Bondegatan 1G,"Södermalm - SoFo,",48.0,2.0,4100000,2017-11-08,Bondegatan,85416,2017
+"Bondegatan 63, 4tr","Södermalm Sofia,",78.0,3.5,6000000,2017-11-07,Bondegatan,76923,2017
+Bondegatan 62,"Sofia,",82.0,3.0,6525000,2017-11-03,Bondegatan,79573,2017
+"Bondegatan 74A, vindsvåning 5+6","Sofia,",93.0,3.5,8650000,2017-10-29,Bondegatan,93010,2017
+"Bondegatan 22, 4 tr","Katarina,",71.0,3.0,5800000,2017-10-27,Bondegatan,81690,2017
+"Bondegatan 24, 3 tr","Katarina,",27.0,1.0,3000000,2017-10-20,Bondegatan,111111,2017
+"Bondegatan 1B, 3tr","Södermalm / Katarina,",65.0,3.0,5200000,2017-10-20,Bondegatan,80000,2017
+Bondegatan 3B,"Södermalm - SoFo,",26.0,1.0,2700000,2017-10-18,Bondegatan,103846,2017
+Bondegatan 13,"Södermalm Katarina,",54.0,2.5,4000000,2017-10-11,Bondegatan,74074,2017
+Bondegatan 55,"Sofia,",52.0,2.0,4250000,2017-09-29,Bondegatan,81730,2017
+"Bondegatan 72C, 2 tr","Södermalm Sofia,",65.0,2.0,5100000,2017-09-21,Bondegatan,78461,2017
+"Bondegatan 81, 2 tr.","Katarina/Sofia,",30.0,1.0,2900000,2017-09-12,Bondegatan,96666,2017
+"Bondegatan 22, 1,5 tr","Södermalm,",28.0,1.0,3200000,2017-09-12,Bondegatan,114285,2017
+Bondegatan 13,"Södermalm,",34.0,2.0,3630000,2017-09-08,Bondegatan,106764,2017
+Bondegatan 50,"Södermalm - Nytorget,",41.0,2.0,4450000,2017-09-07,Bondegatan,108536,2017
+Bondegatan 63,"Katarina/Sofia,",34.0,1.0,2900000,2017-09-06,Bondegatan,85294,2017
+Bondegatan 1C,"Södermalm,",54.0,2.0,5325000,2017-08-31,Bondegatan,98611,2017
+"Bondegatan 7, 2 tr","Katarina,",65.0,2.0,5900000,2017-08-29,Bondegatan,90769,2017
+Bondegatan 33,"Södermalm / Katarina,",45.0,2.0,4675000,2017-08-21,Bondegatan,103888,2017
+"Bondegatan 46, 2 tr","Södermalm SoFo,",32.0,1.0,3300000,2017-08-10,Bondegatan,103125,2017
+Bondegatan 79,"Södermalm- SOFO,",24.0,1.0,2750000,2017-08-09,Bondegatan,114583,2017
+"Bondegatan 79, 3tr","Södermalm,",42.0,2.0,4125000,2017-08-03,Bondegatan,98214,2017
+"Bondegatan 45, 4 tr","Katarina/Sofia,",46.0,2.0,4200000,2017-07-31,Bondegatan,91304,2017
+Bondegatan 3B,"Katarina,",25.0,1.0,2920000,2017-07-27,Bondegatan,116800,2017
+"Bondegatan 1C, 2 tr","Södermalm-SoFo,",42.0,2.0,4850000,2017-07-13,Bondegatan,115476,2017
+Bondegatan 72B,"Sofia,",36.0,2.0,3400000,2017-07-12,Bondegatan,94444,2017
+Bondegatan 25A,"Södermalm- SoFo,",64.5,3.0,4800000,2017-07-12,Bondegatan,74418,2017
+"Bondegatan 80, 3 tr","Katarina/Sofia,",33.0,1.0,3350000,2017-07-06,Bondegatan,101515,2017
+"Bondegatan 5 B, 2 tr","Katarina,",52.0,2.0,4680000,2017-06-21,Bondegatan,90000,2017
+"Bondegatan 16D, 3 tr ög","Södermalm SoFo,",40.0,1.0,3600000,2017-06-19,Bondegatan,90000,2017
+Bondegatan 64,"Södermalm,",122.0,4.0,14500000,2017-06-09,Bondegatan,118852,2017
+Bondegatan 72 B (högst upp),"Sofia,",48.0,2.0,5300000,2017-06-07,Bondegatan,110416,2017
+"Bondegatan 63, högst upp","Sofia,",63.0,3.0,7000000,2017-06-01,Bondegatan,111111,2017
+"Bondegatan 13, 2tr","Katarina,",52.0,2.0,4300000,2017-05-26,Bondegatan,82692,2017
+Bondegatan 7,"Södermalm,",57.0,2.0,4875000,2017-05-11,Bondegatan,85526,2017
+Bondegatan 1F,"Södermalm,",35.0,2.0,3500000,2017-05-04,Bondegatan,100000,2017
+Bondegatan 5A,"Katarina/Sofia,",47.0,2.0,4600000,2017-05-04,Bondegatan,97872,2017
+Bondegatan 80,"Sofia,",33.0,1.0,3270000,2017-04-26,Bondegatan,99090,2017
+"Bondegatan 24, 5 tr","Södermalm SoFo,",27.0,1.5,3150000,2017-04-26,Bondegatan,116666,2017
+"Bondegatan 4,  2 tr","Katarina,",33.0,1.0,3400000,2017-04-25,Bondegatan,103030,2017
+"Bondegatan 24, 3 tr","Södermalm Katarina,",27.0,1.0,3030000,2017-04-11,Bondegatan,112222,2017
+Bondegatan 16C ög,"Södermalm SoFo,",39.0,1.0,3375000,2017-04-04,Bondegatan,86538,2017
+"Bondegatan 7, 1 tr","Södermalm Katarina,",50.0,2.0,4550000,2017-03-30,Bondegatan,91000,2017
+"Bondegatan 22, 5 tr","Södermalm - Nytorget,",68.0,3.0,6300000,2017-03-28,Bondegatan,92647,2017
+"Bondegatan 24, 3 tr","Katarina,",43.0,1.5,3950000,2017-03-16,Bondegatan,91860,2017
+Bondegatan 80,"Södermalm,",33.0,2.0,3500000,2017-03-14,Bondegatan,106060,2017
+"Bondegatan 22, 0,5 tr","Katarina - Södermalm,",77.0,3.0,5400000,2017-03-08,Bondegatan,70129,2017
+"Bondegatan 29, 6-7 tr","Södermalm SoFo,",122.5,5.0,10250000,2017-03-02,Bondegatan,83673,2017
+Bondegatan 51,"Sofia,",70.0,3.0,5405000,2017-03-01,Bondegatan,77214,2017
+"Bondegatan 72B, 4 tr","Södermalm - Sofia,",73.0,3.0,6125000,2017-02-24,Bondegatan,83904,2017
+"Bondegatan 50, 1 tr","Södermalm/SOFO,",51.0,2.0,4250000,2017-02-18,Bondegatan,83333,2017
+Bondegatan 45,"Södermalm,",62.0,2.5,5100000,2017-02-09,Bondegatan,82258,2017
+Bondegatan 79,"Katarina/Sofia,",41.0,1.5,3320000,2017-02-08,Bondegatan,80975,2017
+Bondegatan 29,"Katarina/Sofia,",79.0,3.0,5950000,2017-02-03,Bondegatan,75316,2017
+Bondegatan 51,"Södermalm Sofia,",70.0,3.0,5350000,2017-02-02,Bondegatan,76428,2017
+"Bondegatan 16B, 1 tr","SÖDERMALM - SOFO,",58.0,2.0,5300000,2017-01-26,Bondegatan,91379,2017
+Bondegatan 5A,"Katarina/Sofia,",49.0,2.0,5100000,2017-01-24,Bondegatan,104081,2017
+"Bondegatan 3 B, 4 tr","Katarina,",26.0,1.0,3100000,2017-01-11,Bondegatan,119230,2017
+Bondegatan 45,"Södermalm,",22.0,1.0,2675000,2017-01-10,Bondegatan,121590,2017
+"Bondegatan 13, 1 tr","Södermalm Katarina,",44.0,2.0,4050000,2017-01-05,Bondegatan,92045,2017
+"Bondegatan 80, 2tr","Södermalm - Katarina - Sofo,",33.0,2.0,3300000,2017-01-04,Bondegatan,100000,2017
+Bondegatan 45,"Södermalm,",24.5,1.0,2750000,2017-01-03,Bondegatan,112244,2017
